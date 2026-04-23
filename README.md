@@ -3,7 +3,7 @@
 **A Streamlit and Pandas application built to automate hardware store inventory ordering, manage vendor budgets, and clean messy Point-of-Sale data.**
 
 ## 📌 The Business Problem
-Managing weekly inventory orders for a retail hardware store is traditionally a highly manual, error-prone process. The existing workflow required exporting messy, unstructured CSV reports from a legacy POS system (RockSolid), manually comparing 60-day and 30-day seasonal sales velocities against current Quantity on Hand (QOH), and manually isolating specific Vendor-Managed Inventory (VMI) items—all while trying to stay under a strict weekly budget.
+Managing weekly inventory orders for a retail hardware store is traditionally a highly manual, error-prone process. The existing workflow required exporting messy, unstructured CSV reports from a legacy POS system (RockSolid), manually comparing 60-day and 30-day seasonal sales velocities against current Quantity on Hand (QOH), and manually isolating specific Vendor-Managed Inventory (VMI) items, all while trying to stay under a strict weekly budget.
 
 ## 🚀 The Solution
 I developed a local web application using Python and Streamlit that completely automates this workflow. The app ingests raw POS exports (from Rock Office Manager), forcefully cleans the data, runs predictive inventory algorithms, and outputs perfectly formatted bulk-upload CSVs for the primary distributor (Do It Best).
