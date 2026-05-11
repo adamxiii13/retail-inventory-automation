@@ -22,7 +22,7 @@ I developed a local web application using Python and Streamlit that operates as 
 * **Concepts:** Dynamic Inventory Replenishment, Budget Optimization, Data Cleaning, Regex, Boolean Indexing, VMI
 
 ### 📸 Application Preview
-*(Insert your screenshot here later!)*
+![Smart Ordering System Preview](app-screenshot.png)
 
 ### 📈 Business Impact
 * **Time Saved:** Reduced a multi-hour manual ordering process into a 60-second drag-and-drop workflow.
