@@ -1,0 +1,17 @@
+Sales By Date Range
+Bryce Valley Hardware
+Po Box 127,Transaction Date=1/1/2025-12/31/2025
+121 N Main
+"Tropic, UT  84776"
+435-679-8814,Report Date:,1/1/2026 8:00:00 AM
+
+
+dteTrans,cdeTrans,Product Code,Description,Customer,Qty,Total Cost of Goods ,Extended Price ,Total Gross Profit ,Margin
+6/15/2025 9:00 AM,A1001,100114,Abw66z ADJ Post Base,1,24,$574.56,$1031.76,$457.20,44.31%
+6/16/2025 10:15 AM,A1002,100241,1X2X12 GRADE/SRVEY STAKE,1,150,$778.50,$1843.50,$1065.00,57.77%
+7/02/2025 2:30 PM,A1003,100310,12OZ Mouse Foam Sealant,1,12,$111.36,$155.88,$44.52,28.56%
+7/18/2025 11:45 AM,A1004,100330,4x4 Standoff Base,1,5,$12.80,$24.95,$12.15,48.69%
+8/05/2025 8:20 AM,A1005,100483,GAL Patch Roof Cement,1,8,$173.44,$215.92,$42.48,19.67%
+8/22/2025 4:10 PM,A1006,101346,1-1/2x3 Nail Stop,1,45,$16.65,$40.05,$23.40,58.42%
+9/10/2025 1:05 PM,A1007,865157,3/8 BRS Gas Ball Valve,1,2,$12.28,$25.98,$13.70,52.73%
+10/01/2025 3:55 PM,A1008,869305,1000CT 1-1/2 Brad Nail,1,1,$3.06,$10.99,$7.93,72.15%
