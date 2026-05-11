@@ -1,7 +1,3 @@
-This is the perfect time to update the README. Your application has evolved from a basic data-cleaner into an enterprise-level inventory replenishment engine. Tech recruiters and hiring managers look specifically for the kind of complex logic—like dynamic Min/Max thresholds and tiered budget waterfalls—that you just implemented.
-
-Here is an upgraded, highly professional README that reflects the true scope of your application and your role in streamlining operations for Bryce Valley Hardware.
-
 Smart Retail Inventory & VMI Engine 🛠️
 A production-ready Streamlit and Pandas web application built to automate hardware store inventory ordering, execute dynamic Min/Max replenishment logic, and enforce strict budget parameters using raw Point-of-Sale data.
 
